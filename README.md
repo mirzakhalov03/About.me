@@ -1,4 +1,4 @@
-# Hey there! ![Waving Hand Gif](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+# Hey there! 💪🫱
 
 I'm Javokhirbek Mirzakhalov, a passionate 20-year-old Frontend Developer crafting digital experiences with precision and creativity.
 
